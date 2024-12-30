@@ -22,6 +22,10 @@ Copy .zshrc and powerlevel config
     cp init.vim $HOME/.config/nvim
     cp .p10k.zsh $HOME/.p10k.zsh
 
-- Install [coc](https://github.com/neoclide/coc.nvim)
-- Install required languages for coc
+Install Plugins
+
+    :PluginInstall
+    :call mkdp#util#install()
+
+Install [coc](https://github.com/neoclide/coc.nvim) and required languages for coc
 
