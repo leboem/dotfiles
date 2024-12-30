@@ -1,0 +1,11 @@
+[alias]
+	s=status
+	a=add
+	c=commit
+	ps=push
+	f=fetch
+	pl=pull
+	co=checkout
+	cl=clone
+	c-p=cherry-pick
+	fuck=reset --hard HEAD
