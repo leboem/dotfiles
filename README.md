@@ -16,7 +16,7 @@ Copy .zshrc and powerlevel config
     cp .p10k.zsh $HOME/.p10k.zsh
 
 
-## Setup Vim
+## Setup Neovim
 
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     cp init.vim $HOME/.config/nvim
